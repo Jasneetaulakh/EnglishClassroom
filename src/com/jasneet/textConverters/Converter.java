@@ -1,8 +1,6 @@
 package com.jasneet.textConverters;
 
 import com.jasneet.exceptions.InvalidTextException;
-import com.jasneet.textConverters.MorseToTextConverter;
-import com.jasneet.textConverters.TextToMorseConverter;
 import com.jasneet.util.TextValidator;
 
 public class Converter {
